@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/YiiBase.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/config/main.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/controllers/GpfController.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/cli/commands/shell/CrudCommand.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/grade/create.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/db/schema/mssql/CMssqlSchema.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/layouts/column2.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/assets/9aa4ffac/autocomplete/jquery.autocomplete.css</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/db/schema/mssql/CMssqlColumnSchema.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/book/_form.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/web/CWebModule.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/cli/commands/shell/ControllerCommand.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/index.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/images/background-path.jpg</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/gpf/index.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/layouts/column1.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/grade/admin.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/web/helpers/CHtml.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/assets/b28be596/pager.css</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/gii/components/Pear/Text/Diff.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/web/CBaseController.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/web/CController.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/validators/CCompareValidator.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/assets/9aa4ffac/autocomplete/indicator.gif</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/layouts/main.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/book/view.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/web/CHttpSession.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/index-test.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/base/CApplication.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/zii/widgets/jui/CJuiButton.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/console/CConsoleApplication.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/views/grade/_form.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/vendors/jquery/LICENSE.txt</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/cli/views/webapp/protected/views/layouts/column2.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/vendors/TextHighlighter/Text/README</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/validators/CBooleanValidator.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/models/Type.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/css/bootstrap.css</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/collections/CMap.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/zii/widgets/jui/CJuiAccordion.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/css/nextdoor.css</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/web/CWebApplication.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/test/CTestCase.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/collections/CList.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/framework/cli/views/webapp/protected/views/layouts/column1.php</file>
+            <file>file:/D:/New-Tech/XAMPP/htdocs/yii/protected/runtime/application.log</file>
+        </group>
+    </open-files>
+</project-private>
